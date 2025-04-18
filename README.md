@@ -1,2 +1,2 @@
-# pr-test
-test pull requests
+# PR Test
+This repository exists to test pull requests.
